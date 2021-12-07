@@ -1,0 +1,19 @@
+title: Rhubarb History
+tagline: The History of Rhubarb
+description: The untold story of a plant that feels very British but very much is not.
+banner: https://picsum.photos/id/857/1000/400
+#favicon: <favicon url>
+#logo: <logo url>
+
+# When using a custom domain these fields must be updated to match
+# the Github account and repository name
+#acct: <GitHub account/username>
+#repo: <GitHub repository>
+
+######################################################
+# Defines options shown in the header navigation menu
+######################################################
+nav:
+- label: View page source
+  icon: fas fa-file-code
+  action: view-markdown
