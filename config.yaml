@@ -17,3 +17,8 @@ nav:
 - label: View page source
   icon: fas fa-file-code
   action: view-markdown
+
+- label: 17th Century Visual Tradition
+  icon: f06c
+  action: load-page
+  path: /17th-century-Visual-Tradition
