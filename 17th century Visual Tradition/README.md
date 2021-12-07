@@ -3,7 +3,8 @@
 <param ve-config 
        # title="Entangled Roots: How Rhubarb shows connections between new botanical science and herbal tradition"
        # author="Nathan Cornish"
-       banner="Rhubarbs/Banner.png" 
+       banner="
+17th century Visual Tradition/Banner.png" 
        layout="vertical">
 
 # Introduction
@@ -13,10 +14,10 @@ Rhubarb before the late 18th century was known and defined principally by its ro
 
 <param ve-image 
        zoom="1"
-       label="Rhubarbs/Morrison page.png" 
-       description="Rhubarb in Parkinson" 
+       label="Rhubarbs/Morrison2.jpg" 
+       description="Rhubarb in Morrison" 
        license="public domain" 
-       url="Rhubarbs/Morrison page.png">
+       url="Rhubarb-History/17th century Visual Tradition/Morrison page.png">
        
 # Rhubarb in Morrison's Historia Plantarum Oxoniensis
 
