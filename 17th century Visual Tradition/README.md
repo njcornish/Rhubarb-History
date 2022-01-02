@@ -35,10 +35,10 @@ The picture, contrary to the promises of Morrison, was directly copied from the 
 
 <param ve-image
        zoom="1"
-       label="=Johnson, Gerard.png" 
+       label="Johnson, Gerard.png" 
        description="Rhubarb in Parkinson" 
        license="public domain" 
-       url="=Johnson, Gerard.png">
+       url="Johnson, Gerard.png">
 
 # Parkinson's Rhubarb
 
@@ -104,10 +104,10 @@ Though it is possible to make this process appear linear, and there is a direct 
 
 <param ve-image 
        zoom="1"
-       label="Boym in colour" 
+       label="Boym in colour.png" 
        description="Rhubarb in Parkinson" 
        license="public domain" 
-       url="Boym in colour">
+       url="Boym in colour.png">
 
 # Conclusion
 It is clear that Morrison's claims to originality in his images are false, and that the roots of his work are much more entangled with a heritage of herbal publications than he would like to admit. Nontheless, the most interesting part of this is the way illustrations from across Europe, Mattiolus in Germany, Alpini in Italy, and Parkinson in England, were part of a fragile discourse which in this case tried (with various levels of success) to deal with gaps in botanical knowledge. Rhubarb is a good example of a partially known plant, and with this knowledge, we can see how the relationship between the large roots which could be bought and the smaller plants which could be grown produced a conflict in the illustrations. As a case study, this could be compared with other partially known plants such as chichona bark, to explore further how Early Modern Botanists dealt with the gaps in their knowledge. 
