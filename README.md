@@ -2,10 +2,8 @@
 
 <param ve-config 
        # title="Entangled Roots: How Rhubarb illustrations show connections throughout 17th century botany"
-       # author="Nathan Cornish"
-       banner="Rhubarb-History/Banner.png" 
+       # author="Nathan Cornish" 
        layout="vtl">
-
 
 # Rhubarb History
 
@@ -13,4 +11,12 @@ Strange as it seems, until relatively recently rhubarb was an exotic mystery pla
 
 
 This is a link to [My Essay on Rhubarb Illustrations](https://juncture-digital.org/njcornish/Rhubarb-History/17th%20century%20Visual%20Tradition/)
+
+<param ve-graphic
+       zoom="1"
+       label="Rhubarb-History/Banner.png" 
+       description="Rhubarb!" 
+       license="public domain" 
+       url="Rhubarb-History/Banner.png">
+
 
