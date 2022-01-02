@@ -29,35 +29,35 @@ Rhubarb before the late 18th century was known and defined principally by its ro
 
 Morrison’s Historia Plantarum Oxoniensis in 1780, the first scientific work published by Oxford University press, promised a new beginning for Early Modern Botany. The aim was to provide a complete illustrated guide to all known plants. By then, natural philosophy’s influence on botany had promoted the construction of systemic relations between species. While previous herbals were orientated around function, and rhubarbs defined principally by their medicinal value, Morrison tried to construct a system based around plants with similar seeds. As it happens, Rhubarb and its relatives have quite a distinctive triangular seed, although they are not unique in this characteristic. The book’s ambition was to redo the illustrations and produce a clean break with the haphazard botanical tradition with a complete account of clear examples. The prototype publication, the section on carrots, lived up to this with beautiful and meticulous illustrations, but expense and time led to corners being cut in the later edition. It is clear that the illustrators were working at this point from Johnson’s edition of Gerrard and were taking a shortcut to save time and money. This led to simplification and the shrinking of bigger images to fit whole families onto one page. Morrison’s Historia was meant to be a clean break into a new period of botany but could not escape an intimate connection with tradition of herbal illustration because of the gargantuan effort and resources it would take to do so. The image of rhubarb here is connected closely to the illustrative traditions the book was trying to supplant. In tracing its origin we can see how western botanists dealt with plants which did not fit their systems or which were only partially known, as well as the process of reproduction and change of illustrations. 
 
-<param ve-image 
+<param ve-Graphic 
        zoom="1"
-       label="Rhubarbs/Morrison plant.png" 
+       label="Rhubarb-History/17th century Visual Tradition/Morrison1.png" 
        description="Rhubarb in Parkinson" 
        license="public domain" 
-       url="Rhubarbs/Morrison plant.png">
+       url="Rhubarb-History/17th century Visual Tradition/Morrison1.png">
        
 # Origins in Johnson's edition of Gerrard
 
 The picture, contrary to the promises of Morrison, was directly copied from the 1733 edition of John Gerrard’s 1597 herbal. This edition was edited by Thomas Johnson, who kept most of the illustrations but changed the rhubarb picture citing both John Parkinson and Prospero Alpini. The image here does not look like it was taken from a real plant. It is more likely to be a heavily simplified version of Parkinson's which will be seen next. It maintains the leaf shape and the root with its shoots anachronistically depicted at the base of a plant that’s already grown.  In particular the roots are very odd, with little definition and a shallow wide shape which does not seem to have much precedant. I would like to suggest that this comes from a combination of poor detail in simplifying Parkinson’s illustration which we will examine next and from a desire to represent the large root which was traded across Europe despite the plants grown themselves producing a different one. The midsection of the plant is pretty good, with sensibly shaped leaves, but the flowers are highly simplified as well as spread out both for clarity and for ease of carving.The image in Morrison’s work is a simplified version of the heavily abridged original, probably due to speed and the reduced size of the image. The characteristic sleeve around the stem is less detailed and the shading much more simple. In addition to this, the veins in the leaves are simplified into an easier pattern. It is interesting that in taking a woodcut image and turning it into a copper etching the detail is lessened, though this is probably more to do with size than the limits of the medium. 
 
-<param ve-image 
+<param ve-graphic 
        zoom="1"
-       label="Rhubarbs/Johnson, Gerard.png" 
+       label="Rhubarb-History/17th century Visual Tradition/Johnson, Gerard.png" 
        description="Rhubarb in Parkinson" 
        license="public domain" 
-       url="Rhubarbs/Johnson, Gerard.png">
+       url="Rhubarb-History/17th century Visual Tradition/Johnson, Gerard.png">
 
 # Parkinson's Rhubarb
 
                           
 John Parkinson’s illustration of rhubarb is the closest example from which this illustration might have been taken. His illustration does a lot more to accommodate the information from his possession of the root to the plant he has grown. He criticizes the earlier illustration of Mattiolus as ‘imagined’ and his most contemporary example Alpini’s as ‘taken from the soil too early’. This image is the most rhubarb-like of all the ones explored here, and seems to have been done from experience of a real plant. It combines the beginnings of growth from the root with fully grown lower leaves and a flowering stem which suggests an amalgamation of several plants or stages of growth. Parkinson has nonetheless had trouble ‘accommodating the root’ and has attached a different drawing of one to the base of the plant. He acknowledges that the root this plant has produced is not the one traded across Europe. He blames this on its cultivation and England’s climate rather than challenge the plant itself. Because he has a reputational stake in the plant, and the authority of Alpini, it is simpler and easier to explain that the plant just does not grow very well outside its natural habitat.[^1]
 
-<param ve-image 
+<param ve-graphic 
        zoom="1"
-       label="Rhubarbs/Parkinson Rhubarb.png" 
+       label="Rhubarb-History/17th century Visual Tradition/Parkinson1.png" 
        description="Rhubarb in Parkinson" 
        license="public domain" 
-       url="Rhubarbs/Parkinson Rhubarb.png">
+       url="Rhubarb-History/17th century Visual Tradition/Parkinson1.png">
                           
                                            
 # Alpini's Rhubarb 
