@@ -24,10 +24,10 @@ Morrison’s Historia Plantarum Oxoniensis in 1780, the first scientific work pu
 
 <param ve-image 
        zoom="1"
-       label="Morrison2.png" 
+       label="Morrison2.jpg" 
        description="Rhubarb in Parkinson" 
        license="public domain" 
-       url="Morrison2.png">
+       url="Morrison2.jpg">
        
 # Origins in Johnson's edition of Gerrard
 
