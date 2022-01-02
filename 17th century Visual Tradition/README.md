@@ -20,10 +20,10 @@ Rhubarb before the late 18th century was known and defined principally by its ro
 
 <param ve-image 
        zoom="1"
-       label="Rhubarbs/Morrison2.jpg" 
+       label="Rhubarb-History/17th century Visual Tradition/Morrison2.jpg" 
        description="Rhubarb in Morrison" 
        license="public domain" 
-       url="Rhubarb-History/17th century Visual Tradition/Morrison page.png">
+       url="Rhubarb-History/17th century Visual Tradition/Morrison2.jpg">
        
 # Rhubarb in Morrison's Historia Plantarum Oxoniensis
 
