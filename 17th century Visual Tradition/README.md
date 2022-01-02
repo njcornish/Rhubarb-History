@@ -6,6 +6,7 @@
        layout="vertical">
        
 <param ve-graphic
+       zoom="1"
        label="Rhubarb-History/Banner.png" 
        description="Rhubarb!" 
        license="public domain" 
