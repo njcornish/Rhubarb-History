@@ -5,7 +5,7 @@
        # author="Nathan Cornish"
        layout="vertical">
        
-<param ve-graphic
+<param ve-image
        zoom="1"
        label="Rhubarb-History/Banner.png" 
        description="Rhubarb!" 
@@ -18,18 +18,13 @@
 Rhubarb before the late 18th century was known and defined principally by its root and medical usage,
  which left the form of the plant itself surprisingly elusive. Illustrations of rhubarb between 1554 and 1780 provide a good case study of a plant which was known only partially to Western physicians and apothecaries. Because the root was a valuable one if it could be grown at a high standard there was the possibility of high profit as well as the respect that would come with introducing the new plant.  Within the Roman influenced ideas about the regulation of the Body’s elements, digestive regulation was considered vital, and rhubarb roots were the mildest and least unpleasant purgative drug at the time. This meant that they occupied a position as a go-to home remedy for all sorts of illness. The famous doctor and polymath Hans Sloane’s letters often report the taking of rhubarb and its inadequacy as a sign of a more serious illness on which he should be consulted. Within a combination of poor diet and traditional purgative practice as a treatment model, rhubarb could be described as a sort of contemporary cross between a weetabix and an aspirin. The highest quality root was traded from Northern China through the Russian Tsar’s monopoly from 1682 to the mid 1700s without its accompanying stem and leaves. This left a gap in Western botanical understanding where there is clearly a plant to be found, described as early as Dioscorides' De Materia Medica (circa 60AD) but there is only the root and its effects to mark it out from other plants. It should also be stressed at this point that the Rhubarb we are talking about here is a whole family of plants which by the late 18th century had cross-pollinated into the more recognisable culinary plant which is more well known today. The plant they were looking for can be seen to the right. The distinguishing features are the thick root with a familiar big lower leaf section, the bolting stem that grows after this part with a papery coating on the stem, and the dense flowering sections which emerge at the top. Here, we will trace illustrations of rhubarb from Morrison back through the botanical works of Parkinson, Alpini, Gerard, and back to Mattiolus. We will see the process of illustration creation across a century and a half as Western botanical canon struggled to adapt to partially known plants.
 
-<param ve-image 
-       zoom="1"
-       label="Rhubarb-History/17th century Visual Tradition/Morrison2.jpg" 
-       description="Rhubarb in Morrison" 
-       license="public domain" 
-       url="Rhubarb-History/17th century Visual Tradition/Morrison2.jpg">
+! {Rhubarb in Morrison} (Rhubarb-History/17th century Visual Tradition/Morrison2.jpg")
        
 # Rhubarb in Morrison's Historia Plantarum Oxoniensis
 
 Morrison’s Historia Plantarum Oxoniensis in 1780, the first scientific work published by Oxford University press, promised a new beginning for Early Modern Botany. The aim was to provide a complete illustrated guide to all known plants. By then, natural philosophy’s influence on botany had promoted the construction of systemic relations between species. While previous herbals were orientated around function, and rhubarbs defined principally by their medicinal value, Morrison tried to construct a system based around plants with similar seeds. As it happens, Rhubarb and its relatives have quite a distinctive triangular seed, although they are not unique in this characteristic. The book’s ambition was to redo the illustrations and produce a clean break with the haphazard botanical tradition with a complete account of clear examples. The prototype publication, the section on carrots, lived up to this with beautiful and meticulous illustrations, but expense and time led to corners being cut in the later edition. It is clear that the illustrators were working at this point from Johnson’s edition of Gerrard and were taking a shortcut to save time and money. This led to simplification and the shrinking of bigger images to fit whole families onto one page. Morrison’s Historia was meant to be a clean break into a new period of botany but could not escape an intimate connection with tradition of herbal illustration because of the gargantuan effort and resources it would take to do so. The image of rhubarb here is connected closely to the illustrative traditions the book was trying to supplant. In tracing its origin we can see how western botanists dealt with plants which did not fit their systems or which were only partially known, as well as the process of reproduction and change of illustrations. 
 
-<param ve-Graphic 
+<param ve-image 
        zoom="1"
        label="Rhubarb-History/17th century Visual Tradition/Morrison1.png" 
        description="Rhubarb in Parkinson" 
@@ -40,7 +35,7 @@ Morrison’s Historia Plantarum Oxoniensis in 1780, the first scientific work pu
 
 The picture, contrary to the promises of Morrison, was directly copied from the 1733 edition of John Gerrard’s 1597 herbal. This edition was edited by Thomas Johnson, who kept most of the illustrations but changed the rhubarb picture citing both John Parkinson and Prospero Alpini. The image here does not look like it was taken from a real plant. It is more likely to be a heavily simplified version of Parkinson's which will be seen next. It maintains the leaf shape and the root with its shoots anachronistically depicted at the base of a plant that’s already grown.  In particular the roots are very odd, with little definition and a shallow wide shape which does not seem to have much precedant. I would like to suggest that this comes from a combination of poor detail in simplifying Parkinson’s illustration which we will examine next and from a desire to represent the large root which was traded across Europe despite the plants grown themselves producing a different one. The midsection of the plant is pretty good, with sensibly shaped leaves, but the flowers are highly simplified as well as spread out both for clarity and for ease of carving.The image in Morrison’s work is a simplified version of the heavily abridged original, probably due to speed and the reduced size of the image. The characteristic sleeve around the stem is less detailed and the shading much more simple. In addition to this, the veins in the leaves are simplified into an easier pattern. It is interesting that in taking a woodcut image and turning it into a copper etching the detail is lessened, though this is probably more to do with size than the limits of the medium. 
 
-<param ve-graphic 
+<param ve-image
        zoom="1"
        label="Rhubarb-History/17th century Visual Tradition/Johnson, Gerard.png" 
        description="Rhubarb in Parkinson" 
