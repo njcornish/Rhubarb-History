@@ -31,10 +31,10 @@ Morrison’s Historia Plantarum Oxoniensis in 1780, the first scientific work pu
 
 <param ve-image 
        zoom="1"
-       label="Rhubarb-History/17th century Visual Tradition/Morrison1.png" 
+       label="Morrison1.png" 
        description="Rhubarb in Parkinson" 
        license="public domain" 
-       url="Rhubarb-History/17th century Visual Tradition/Morrison1.png">
+       url="Morrison1.png">
        
 # Origins in Johnson's edition of Gerrard
 
@@ -42,10 +42,10 @@ The picture, contrary to the promises of Morrison, was directly copied from the 
 
 <param ve-image
        zoom="1"
-       label="Rhubarb-History/17th century Visual Tradition/Johnson, Gerard.png" 
+       label="=Johnson, Gerard.png" 
        description="Rhubarb in Parkinson" 
        license="public domain" 
-       url="Rhubarb-History/17th century Visual Tradition/Johnson, Gerard.png">
+       url="=Johnson, Gerard.png">
 
 # Parkinson's Rhubarb
 
@@ -54,10 +54,10 @@ John Parkinson’s illustration of rhubarb is the closest example from which thi
 
 <param ve-graphic 
        zoom="1"
-       label="Rhubarb-History/17th century Visual Tradition/Parkinson1.png" 
+       label="=Parkinson1.png" 
        description="Rhubarb in Parkinson" 
        license="public domain" 
-       url="Rhubarb-History/17th century Visual Tradition/Parkinson1.png">
+       url="Parkinson1.png">
                           
                                            
 # Alpini's Rhubarb 
@@ -66,10 +66,10 @@ John Parkinson’s illustration of rhubarb is the closest example from which thi
 Prospero Alpini, who ran the university gardens at Padua in the early 17th century, was very interested in rhubarb and not only explored a new plant contender but also illustrated it. He wrote an account of a ‘rhubarb dispute’ at the university in 1613 in which he argued successfully (in that he won over the crowd) that the plant he had was the one which was briefly mentioned in the account of Dioscorides. This is a good example of how knowledge was verified and categorised in these institutions at the time. It seems likely that Alpini did have some sort of new plant, and a rhubarb at that, because John Parkinson validates his own claim to ‘true rhubarb’ by his having received it from Alpini through a ‘Dr Lister’. Alpini’s rhubarb illustration looks much more like rhubarb, but the roots and the stem are completely wrong. The roots are too small and the way the lower leaves emerge from the stem is inaccurate. This looks more like a member of the daisy family which was also eaten at the time. This may have been confused by the illustrator or somewhere along the line swapped in for the original. 
 
 <param ve-image
-       Label="Rhubarbs/Alpini_rhubarb.png"
+       Label="Alpini.jpg"
        description= "Rhubarb in De Plantarum Exotica"
        licence="public domain"
-       url="Rhubarbs/Alpini_rhubarb.png
+       url="Alpini.jpg"
        
 # Original Gerrard
 
@@ -77,7 +77,7 @@ John Gerard’s ‘Greate Herball’ of 1597 was essentially an english copy of 
 
 <param ve-image 
        zoom="1"
-       label="Rhubarbs/Gerard 1.png" 
+       label="Gerard 1.png" 
        description="Original Gerrard illustration" 
        license="public domain" 
        url="Gerard 1.png">
@@ -90,10 +90,10 @@ Mattiolus in 1544 wrote a commentary on the botanical work fo Dioscorides, for w
 
 <param ve-image 
        zoom="1"
-       label="Rhubarbs/Gerard 1.png" 
+       label="Mattiolus1.jpg" 
        description="Original Gerrard illustration" 
        license="public domain" 
-       url="Gerard 1.png">
+       url="Mattiolus1.jpg">
  
  ## Image
 
@@ -101,10 +101,10 @@ We can tell that this was the case from these two images from Mattiolus’ comme
 
 <param ve-image 
        zoom="1"
-       label="Rhubarbs/Mattiolus rhubarb.png" 
+       label="Mattiolus2.jpg" 
        description="Rhubarb in Parkinson" 
        license="public domain" 
-       url="Mattiolus rhubarb.png">
+       url="Mattiolus2.jpg">
 
 # Boym
 ## Image 
@@ -112,10 +112,10 @@ Though it is possible to make this process appear linear, and there is a direct 
 
 <param ve-image 
        zoom="1"
-       label="Rhubarbs/Mattiolus rhubarb.png" 
+       label="Boym in colour" 
        description="Rhubarb in Parkinson" 
        license="public domain" 
-       url="Boym in colour.png">
+       url="Boym in colour">
 
 # Conclusion
 It is clear that Morrison's claims to originality in his images are false, and that the roots of his work are much more entangled with a heritage of herbal publications than he would like to admit. Nontheless, the most interesting part of this is the way illustrations from across Europe, Mattiolus in Germany, Alpini in Italy, and Parkinson in England, were part of a fragile discourse which in this case tried (with various levels of success) to deal with gaps in botanical knowledge. Rhubarb is a good example of a partially known plant, and with this knowledge, we can see how the relationship between the large roots which could be bought and the smaller plants which could be grown produced a conflict in the illustrations. As a case study, this could be compared with other partially known plants such as chichona bark, to explore further how Early Modern Botanists dealt with the gaps in their knowledge. 
