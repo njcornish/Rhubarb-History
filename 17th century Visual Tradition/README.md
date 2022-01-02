@@ -7,10 +7,10 @@
        
 <param ve-graphic
        zoom="1"
-       label="Rhubarb-History/Banner.png" 
+       label="Banner.png" 
        description="Rhubarb!" 
        license="public domain" 
-       url="Rhubarb-History/Banner.png">
+       url="Banner.png">
 
 
 # Introduction
@@ -20,10 +20,10 @@ Rhubarb before the late 18th century was known and defined principally by its ro
 
 <param ve-image 
        zoom="1"
-       label="Rhubarb-History/17th century Visual Tradition/Morrison2.jpg" 
+       label="Morrison2.jpg" 
        description="Rhubarb in Parkinson" 
        license="public domain" 
-       url="Rhubarb-History/17th century Visual Tradition/Morrison2.jpg">
+       url="Morrison2.jpg">
        
 # Rhubarb in Morrison's Historia Plantarum Oxoniensis
 
