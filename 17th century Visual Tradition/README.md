@@ -5,7 +5,7 @@
        # author="Nathan Cornish"
        layout="vertical">
        
-<param ve-image
+<param ve-graphic
        label="Rhubarb-History/Banner.png" 
        description="Rhubarb!" 
        license="public domain" 
