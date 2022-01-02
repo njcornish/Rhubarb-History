@@ -13,10 +13,10 @@ Rhubarb before the late 18th century was known and defined principally by its ro
 
 <param ve-image 
        zoom="1"
-       label="Morrison2.jpg" 
+       label="Morrison1.jpg" 
        description="Rhubarb in Parkinson" 
        license="public domain" 
-       url="Morrison2.jpg">
+       url="Morrison1.jpg">
        
 # Rhubarb in Morrison's Historia Plantarum Oxoniensis
 
@@ -24,10 +24,10 @@ Morrison’s Historia Plantarum Oxoniensis in 1780, the first scientific work pu
 
 <param ve-image 
        zoom="1"
-       label="Morrison1.png" 
+       label="Morrison2.png" 
        description="Rhubarb in Parkinson" 
        license="public domain" 
-       url="Morrison1.png">
+       url="Morrison2.png">
        
 # Origins in Johnson's edition of Gerrard
 
@@ -43,9 +43,9 @@ The picture, contrary to the promises of Morrison, was directly copied from the 
 # Parkinson's Rhubarb
 
                           
-John Parkinson’s illustration of rhubarb is the closest example from which this illustration might have been taken. His illustration does a lot more to accommodate the information from his possession of the root to the plant he has grown. He criticizes the earlier illustration of Mattiolus as ‘imagined’ and his most contemporary example Alpini’s as ‘taken from the soil too early’. This image is the most rhubarb-like of all the ones explored here, and seems to have been done from experience of a real plant. It combines the beginnings of growth from the root with fully grown lower leaves and a flowering stem which suggests an amalgamation of several plants or stages of growth. Parkinson has nonetheless had trouble ‘accommodating the root’ and has attached a different drawing of one to the base of the plant. He acknowledges that the root this plant has produced is not the one traded across Europe. He blames this on its cultivation and England’s climate rather than challenge the plant itself. Because he has a reputational stake in the plant, and the authority of Alpini, it is simpler and easier to explain that the plant just does not grow very well outside its natural habitat.[^1]
+John Parkinson’s illustration of rhubarb is the closest example from which this illustration might have been taken. His illustration does a lot more to accommodate the information from his possession of the root to the plant he has grown. He criticizes the earlier illustration of Mattiolus as ‘imagined’ and his most contemporary example Alpini’s as ‘taken from the soil too early’. This image is the most rhubarb-like of all the ones explored here, and seems to have been done from experience of a real plant. It combines the beginnings of growth from the root with fully grown lower leaves and a flowering stem which suggests an amalgamation of several plants or stages of growth. Parkinson has nonetheless had trouble ‘accommodating the root’ and has attached a different drawing of one to the base of the plant. He acknowledges that the root this plant has produced is not the one traded across Europe. He blames this on its cultivation and England’s climate rather than challenge the plant itself. Because he has a reputational stake in the plant, and the authority of Alpini, it is simpler and easier to explain that the plant just does not grow very well outside its natural habitat.
 
-<param ve-graphic 
+<param ve-image 
        zoom="1"
        label="=Parkinson1.png" 
        description="Rhubarb in Parkinson" 
@@ -62,7 +62,7 @@ Prospero Alpini, who ran the university gardens at Padua in the early 17th centu
        Label="Alpini.jpg"
        description= "Rhubarb in De Plantarum Exotica"
        licence="public domain"
-       url="Alpini.jpg"
+       url="Alpini.jpg">
        
 # Original Gerrard
 
@@ -77,18 +77,17 @@ John Gerard’s ‘Greate Herball’ of 1597 was essentially an english copy of 
        
 # Mattiolus
 
-Mattiolus in 1544 wrote a commentary on the botanical work fo Dioscorides, for which her coordinated the creation of a large number of woodcuts.
-                         These included two different images which are labelled as rhubarbs.
-                         The first shows a large root, similar to the root drawn as the medicinal import,and the leaves are a little similar, but the plant drawn onto it is highly unsatisfactory. It is out of proportion with the roots and clearly not the rhubarb they were looking for. It has neither stem, flowers or leaves which would mark it out as what we know as a rapontic. The second illustration shows an obviously unsatisfactory root, clearly different to the drawn root shown, with a plant that is distinctly not rhubarb. Mattiolus’ woodcuts became the basis of a commonly used collection of botanical images which were appropriated by later writers as the standard images. Many of the other docks on the same page as rhubarb are represented by copies of the original Mattiolus illustrations, passed down for 150 years through several works.
+Mattiolus in 1544 wrote a commentary on the botanical work of Dioscorides, for which he coordinated the creation of a large number of woodcuts. These included two different images which are labelled as rhubarbs. The first shows a large root, similar to the root drawn as the medicinal import,and the leaves are a little similar, but the plant drawn onto it is highly unsatisfactory. It is out of proportion with the roots and clearly not the rhubarb they were looking for. It has neither stem, flowers or leaves which would mark it out as what we know as a rapontic. The second illustration shows an obviously unsatisfactory root, clearly different to the drawn root shown, with a plant that is distinctly not rhubarb. Mattiolus’ woodcuts became the basis of a commonly used collection of botanical images which were appropriated by later writers as the standard images. Many of the other docks on the same page as rhubarb are represented by copies of the original Mattiolus illustrations, passed down for 150 years through several works.
 
 <param ve-image 
        zoom="1"
        label="Mattiolus1.jpg" 
-       description="Original Gerrard illustration" 
+       description="Mattiolus illustration" 
        license="public domain" 
        url="Mattiolus1.jpg">
  
- ## Image
+
+## Mattiolus continued
 
 We can tell that this was the case from these two images from Mattiolus’ commentary on Dioscorides from 1544 The first shows a large root, similar to the root drawn as the medicinal import,and the leaves are a little similar, but the plant drawn onto it is highly unsatisfactory. It is out of proportion with the roots and clearly not the rhubarb they were looking for. It has neither stem, flowers or leaves which would mark it out as what we know as a rapontic. The second illustration shows an obviously unsatisfactory root, clearly different to the drawn root shown, with a plant that is distinctly not rhubarb. Mattiolus’ woodcuts became the basis of a commonly used collection of botanical images which were appropriated by later writers as the standard images. Many of the other docks on the same page as rhubarb are represented by copies of the original Mattiolus illustrations, passed down for 150 years through several works.
 
@@ -99,8 +98,8 @@ We can tell that this was the case from these two images from Mattiolus’ comme
        license="public domain" 
        url="Mattiolus2.jpg">
 
-# Boym
-## Image 
+# Mattiolus revived in Boym's illustrated plants of China
+
 Though it is possible to make this process appear linear, and there is a direct lineage of illustrations from Mattiolus to Morrison, it is not that simple. The Jesuit Missionary Michel Boym in travelled across China from 1643 to 1652 and published his 'flora sinensis' (chinese flora) which depicted both animals and plants in 1656. His image of Rhubarb looks very similar to the second of Mattiolus' prints. This was later coloured in after publication. The most likely scenario here is that a seleciton bias occured as Boym may have seen the Mattiolus illustration and gone out to find that plant, depicting some sort of flowering cabbage instead. It is important to note therefore that this process was still quite fluid and older illustrations continued to be used even when new ones were available. Strikingly, the roots depicted here are very small and obviously not those which were traded to the West. This suggests that Boym's interest in rhubarb comes from a perspective of botany rather than medicine because from the latter viewpoint the primary characteristic of rhubarb is the purgative root.
 
 <param ve-image 
