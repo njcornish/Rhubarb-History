@@ -3,16 +3,9 @@
 <param ve-config 
        # title="Entangled Roots: How Rhubarb shows connections between new botanical science and herbal tradition"
        # author="Nathan Cornish"
+       banner="Banner.png"
        layout="vertical">
-       
-<param ve-graphic
-       zoom="1"
-       label="Banner.png" 
-       description="Rhubarb!" 
-       license="public domain" 
-       url="Banner.png">
-
-
+      
 # Introduction
 
 Rhubarb before the late 18th century was known and defined principally by its root and medical usage,
