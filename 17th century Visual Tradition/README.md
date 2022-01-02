@@ -3,9 +3,15 @@
 <param ve-config 
        # title="Entangled Roots: How Rhubarb shows connections between new botanical science and herbal tradition"
        # author="Nathan Cornish"
-       banner="
-17th century Visual Tradition/Banner.png" 
        layout="vertical">
+       
+<param ve-graphic
+       zoom="1"
+       label="Rhubarb-History/Banner.png" 
+       description="Rhubarb!" 
+       license="public domain" 
+       url="Rhubarb-History/Banner.png">
+
 
 # Introduction
 
