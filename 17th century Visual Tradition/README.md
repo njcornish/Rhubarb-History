@@ -70,10 +70,10 @@ John Gerard’s ‘Greate Herball’ of 1597 was essentially an english copy of 
 
 <param ve-image 
        zoom="1"
-       label="Gerard 1.png" 
+       label="Gerard1.png" 
        description="Original Gerrard illustration" 
        license="public domain" 
-       url="Gerard_1.png">
+       url="Gerard1.png">
        
 # Mattiolus
 
