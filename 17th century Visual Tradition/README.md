@@ -112,11 +112,19 @@ It is clear that Morrison's claims to originality in his images are false, and t
 # References
 
 [^1]: [Foust, C, Rhubarb: The Wondrous Drug, (Princeton University Press, 2014)]
+
 [^2]: [Dioscorides, de materia medica, 3.2]
+
 [^3]: [Morison, R, ‘Plantarum Historiae Universalis Oxoniensis pars secunda seu Herbarum Distributio Nova, per tabulas cognationis & affinitatis Ex Libro Naturae Observata & detecta’, (Oxford: from the Sheldonian Theatre, 1680), Biodiversity Heritage Library,  Biodiversity Heritage Library (2, Jan, 2022), Holding institution: Royal Botanical Garden, Madrid]
+
 [^4] [ Gerard, J, ‘The herball, or Generall historie of plantes’, Johnson, T (eds), (London: Adam Islip, Joice Norton and Richard Whitakers, 1633), Biodiversity Heritage Library (2, Jan, 2022), Holding institution: Harold B. Lee Library ] 
+
 [^5] [Parkinson, J, ‘Paradisi in sole paradisus terrestris, or, A garden of all sorts of pleasant flowers which our English ayre will permit to be noursed up: with a kitchen garden of all manner of herbes, rootes, and fruits’, (London: Humfrey Lownes and Rob Young, 1629), Biodiversity Heritage Library (2, Jan, 2022), Holding institution: Missouri Botanical Garden, Peter H. Raven Library !]
+
 [^6] [Alpini, P, ‘De Rapontico: disputatio in gymnasio patavino habita’, in Alpini P. From Balsamo: Dialogues. In qvo verissima balsami Plantae, Opobalsami, Carpobalsami, & Xilobalsami cognitio, plerisque antiquorum atque juniorum Medicorum occulta, nunc elucescit’, (Padua, Paulus Frambottum, 1639), Biodiversity Heritage Library (2,Jan, 2022), Holding Institution: Royal Botanical Garden, Madrid]
+
 [^7] [Alpini, P, ‘ De plantis exoticis, libri duo, Prosperi Alpini, philosophi medici, in gymnasium Patavino medicamentorum simpliciom professoris ordinarii, & horti medici praefecti: opus completum, editum studio, ac opera Alpini Alpini, Phylosophi & medici, Auctoris filis’, (Venice, Io. Guerilium, 1627)]
+
 [^8] [Mattioli, P. A, Senensis medici, Commentarii in sex libros Pedacii Dioscoridis Anazarbei De Medica Materia, (Venice: Ex Officina Valgrisiana, 1565) Biodiversity Heritage Library (2, Jan, 2022), Holding Institution: Royal Botanical Garden, Madrid] 
+
 [^9] [Boym, M, ‘Flora sinensis, fructus floresque humillime porrigens serenissimo et potentissimo Leopoldo Ignation, Hungariae regi florentissim, & c.Fructus saecul promittenti Augustissimos’, (Vienna, Austria, M.Rictij, 1656), Biodiversity Heritage Library (2, Jan, 2022), Holding institution: Royal Botanic Gardens Kew, Library, (Art and Archives)]
