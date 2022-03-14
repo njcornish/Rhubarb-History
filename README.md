@@ -14,7 +14,7 @@ This is a link to [My Essay on Rhubarb Illustrations](https://juncture-digital.o
 
 <param ve-graphic
        zoom="1"
-       label="Rhubarb-History/Banner.png" 
+       label="Rhubarb-History/17th Century Visual Tradition/Banner.png" 
        description="Rhubarb!" 
        license="public domain" 
        url="Rhubarb-History/Banner.png">
