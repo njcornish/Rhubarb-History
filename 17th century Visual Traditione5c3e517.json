@@ -1,0 +1,27 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Text means rhubarb in Chinese maybe probably",
+        "purpose": "commenting"
+      },
+      {
+        "type": "TextualBody",
+        "value": "Rhubarb annotation",
+        "purpose": "tagging"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/4ec3dacf68e0281134b517f305e82a62dead084bd4b1def7faec1bc5e88f8755",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:222.78933715820312,1944.7020263671875,687.2813415527344,732.0592041015625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d55a1301-e46a-43b2-bf0d-a072f8df68fd"
+  }
+]
